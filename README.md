@@ -1,5 +1,9 @@
 # TransformAI
 
+<p align="center">
+  <img src="public/editimg.png" alt="TransformAI Demo" width="800"/>
+</p>
+
 An AI-powered image editor that removes unwanted objects and replaces them with anything you can describe.
 
 ## Features
